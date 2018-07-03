@@ -1,2 +1,2 @@
 # faststay
-快速app
+快宿app
